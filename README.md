@@ -7,16 +7,18 @@ Priority of the project is to gather data of forest fires in California and prod
 
 Our inspiration is due to an increase of such fires and their close proximity to populated areas. The proximity to populated areas is not just the fires but ash and amber which may travel up to 10 miles. Furthermore, the pollution and air quality in an area much larger than the ground covered by the fires. As a case in point, the recent wild fires during August of 2018 had covered one third of the air space over the state of California.
 
-![Main.png](ProjectFireQuake/Images/Main.png)
+
+![png](ProjectFireQuake/Images/Main.png)
 
 ## Dash D3 Responsive Graph - Burned Areas In California Counties
 
-![AcresBurned.png](ProjectFireQuake/Images/AcresBurned.png)
+
+![png](ProjectFireQuake/Images/AcresBurned.png)
 
 
 ## Leatlet GeoMap - Earthquakes in California
 
-![EarthQuakes.png](ProjectFireQuake/Images/EarthQuakes.png)
+![png](ProjectFireQuake/Images/EarthQuakes.png)
 
 
 ## Plotly Graph - United States Wilf Fires Per State
