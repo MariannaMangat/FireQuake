@@ -10,17 +10,17 @@ Our inspiration is due to an increase of such fires and their close proximity to
 
 ![PNG](ProjectFireQuake/Images/Main.PNG)
 
-## Dash D3 Responsive Graph - Burned Areas In California Counties
+## Dash D3 Responsive Graph - Areas Affected By Fire In California Counties
 
 
 ![PNG](ProjectFireQuake/Images/AcresBurned.PNG)
 
 
-## Leatlet GeoMap - Earthquakes in California
+## Leatlet GeoMap - Earthquakes and Tectonic Plates in California
 
 ![PNG](ProjectFireQuake/Images/EarthQuakes.PNG)
 
 
-## Plotly Graph - United States Wilf Fires Per State
+## Plotly Graph - United States Wild Fires Per State
 
 ![png](ProjectFireQuake/Images/USWildFires.png)
