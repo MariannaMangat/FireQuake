@@ -16,7 +16,7 @@ Our inspiration is due to an increase of such fires and their close proximity to
 ![PNG](ProjectFireQuake/Images/AcresBurned.PNG)
 
 
-## Leatlet GeoMap - Earthquakes and Tectonic Plates in California
+## Leatlet GeoMap - Earthquakes Magnitude 5+ over the years and Tectonic Plates in California
 
 ![PNG](ProjectFireQuake/Images/EarthQuakes.PNG)
 
